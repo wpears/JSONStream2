@@ -2,7 +2,7 @@
 
 //See https://github.com/dominictarr/JSONStream for original implementation
 var Parser = require('jsonparse');
-var through2 = require('through2');
+var through = require('through2');
 
 exports.parse = function (path, map) {
 
