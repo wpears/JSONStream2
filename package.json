@@ -24,6 +24,7 @@
   },
   "homepage": "https://github.com/wpears/json-readable-stream",
   "dependencies": {
-    "readable-stream": "^1.0.33"
+    "jsonparse": "^1.0.0",
+    "through2": "^0.6.3"
   }
 }
